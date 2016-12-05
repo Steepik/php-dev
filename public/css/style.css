@@ -1,0 +1,17 @@
+.pagination-my {
+    position: absolute;
+}
+.pagination-my ul{
+    list-style: none;
+    position:relative;
+    top:350px;
+    left:530px;
+    display: inline-block;
+}
+
+.pagination-my ul li a{
+    padding:20px;
+    color:black;
+    background-color: rgba(55,150,155,.3);
+    border-radius: 5%;
+}
